@@ -6,9 +6,9 @@
 
 **激活环境：**  conda activate env_name
 
-**退出环境： **  conda deactivate
+**退出环境:**  conda deactivate
 
-**查看已有的环境： **  conda env list
+**查看已有的环境：**  conda env list
 
 **删除环境**：  conda remove -n env_name --all
 
