@@ -16,12 +16,12 @@
 
 （貌似不好用，建议直接挂梯子）
 
-conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+'conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
 conda config --set show_channel_urls yes
 
-conda clean -i
+conda clean -i'
 
 **清除配置：**
 
