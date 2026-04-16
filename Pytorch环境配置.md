@@ -4,9 +4,9 @@
 
 **创建环境：** conda create -n env_name python=3.x
 
-**激活环境：** conda activate env_name
+**激活环境：**  conda activate env_name
 
-**退出环境： ** conda deactivate
+**退出环境： **  conda deactivate
 
 **查看已有的环境： **  conda env list
 
