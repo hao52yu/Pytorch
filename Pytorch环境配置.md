@@ -1,18 +1,20 @@
-# pytorch环境配置
+# Pytorch环境配置
 
 ## 1、conda指令
 
-**创建环境：**conda create -n env_name python=3.x
+**创建环境：** conda create -n env_name python=3.x
 
-**激活环境：**conda activate env_name
+**激活环境：** conda activate env_name
 
-**退出环境：**conda deactivate
+**退出环境： ** conda deactivate
 
-**查看已有的环境：**conda env list
+**查看已有的环境： **  conda env list
 
-**删除环境**：conda remove -n env_name --all
+**删除环境**：  conda remove -n env_name --all
 
-**配置国内镜像源：**（貌似不好用，建议直接挂梯子）
+**配置国内镜像源：**
+
+（貌似不好用，建议直接挂梯子）
 
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
